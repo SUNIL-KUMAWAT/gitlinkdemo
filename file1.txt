@@ -4,7 +4,10 @@ file update for push
 x = 5;
 y = 6;
 y = 66;
+x = 10;
+a = 12;
 z = x + y;
 z = x--y;
 z = x-y;
+z = x ++ y
 </code>
